@@ -1,0 +1,36 @@
+_repo: Po-sies-choisies-de-Andr--Ch-nier_17899
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chénier, André
+    alias: Chenier, Andre
+    birthdate: 1762
+    deathdate: 1794
+    gutenberg_agent_id: '7677'
+    url: http://www.gutenberg.org/2009/agents/7677
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Andr%C3%A9_Ch%C3%A9nier
+    - http://en.wikipedia.org/wiki/Andr%C3%A9_Ch%C3%A9nier
+  editor:
+    agent_name: Derocquigny, Jules
+    birthdate: 1860
+    gutenberg_agent_id: '7678'
+    url: http://www.gutenberg.org/2009/agents/7678
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2006-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17899'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Poetry'
+title: Poésies choisies de André Chénier
+url: http://www.gutenberg.org/ebooks/17899
